@@ -47,6 +47,10 @@ const Footer = () => {
         </ul>
    </div>
     </div>
+   <div className='flex items-center rounded-md justify-center border border-orange-700 w-full mx-auto py-3 mt-10 px-4 gap-3'>
+    <img src="./abbas.jpeg" className='h-14 w-14 border border-neutral-300 rounded-full' />
+   <h3 className='text-center text-3xl mb-5 bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text font-bold italic'>By Muhammad Abbas...❤️</h3>
+   </div>
    </footer>
   )
 }
